@@ -1,0 +1,7 @@
+true||msi||tv|mando|teclado||ordenador1||5.0||3.0||GRIS||ULTRA||IOS||true||true||8888||53.0||intel
+false||msi||monitor|mando|teclado||O2||5.0||3.0||GRIS||ULTRA||IOS||true||true||8888||53.0||amd
+true||msi||tv|mando|teclado||O3||5.0||3.0||GRIS||ULTRA||IOS||true||true||8888||53.0||intel
+true||msi||mando|teclado||O4||5.0||3.0||GRIS||ULTRA||IOS||true||true||8888||53.0||amd
+true||msi||tv|teclado||O5||5.0||3.0||GRIS||ULTRA||IOS||true||true||8888||53.0||intel
+
+
